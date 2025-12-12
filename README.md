@@ -9,6 +9,14 @@ https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718
 
 ---
 
+## Hackathon Links
+
+1. **Hackathon I: Physical AI & Humanoid Robotics Textbook**  
+   [Document Link](https://docs.google.com/document/d/1nw6D37JmTfhPLHo0IfTeCcKajX3Lw9PidDmBjMG1G5o/edit?tab=t.0)
+
+2. **Hackathon II: Todo Spec-Driven Development**  
+   [Document Link](https://docs.google.com/document/d/1KHxeDNnqG9uew-rEabQc5H8u3VmEN3OaJ_A1ZVVr9vY/edit?usp=sharing)
+
 ## Project Requirements
 
 ### Core Tools & Requirements
