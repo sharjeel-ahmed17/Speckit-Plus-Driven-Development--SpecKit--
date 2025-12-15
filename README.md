@@ -263,4 +263,33 @@ Repeat the following sequence for each new specification/feature:
 Follow along with the complete step-by-step tutorial:  
 https://ai-native.panaversity.org/docs/SDD-RI-Fundamentals/spec-kit-plus-hands-on
 
+## github deployment guide
+
+```
+Ye error baseUrl galat hone ki wajah se aa raha hai.
+✅ Fix:
+docusaurus.config.js mein ye set karo:
+
+Js
+url: 'https://USERNAME.github.io',
+baseUrl: '/REPO_NAME/',
+organizationName: 'USERNAME',
+projectName: 'REPO_NAME',
+👉 Example:
+
+Js
+url: 'https://(apna GitHub ka user name).github.io',
+baseUrl: '/(Apni repo ka name/',
+Phir run karo:
+
+
+Bash
+npm run build
+npm run deploy
+Open karo:
+Copy code
+
+https://USERNAME.github.io/REPO_NAME/
+```
+
 Happy spec-driven building! 🚀
