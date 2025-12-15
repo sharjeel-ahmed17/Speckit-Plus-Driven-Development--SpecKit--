@@ -93,6 +93,9 @@ The final title of the book to be generated will be shared and updated on:
 
 **Ameen Alam**
 
+## use antropic skills in your project 
+
+[antropic skills](https://github.com/anthropics/skills/tree/main/skills)
 ## Project Requirements
 
 ### Core Tools & Requirements
