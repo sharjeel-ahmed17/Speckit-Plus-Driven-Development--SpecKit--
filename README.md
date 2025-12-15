@@ -16,7 +16,46 @@ https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718
 
 2. **Hackathon II: Todo Spec-Driven Development**  
    [Document Link](https://docs.google.com/document/d/1KHxeDNnqG9uew-rEabQc5H8u3VmEN3OaJ_A1ZVVr9vY/edit?usp=sharing)
+## form submission links giaic all slot 
+```
+*📢 GIAIC AI / Spec-Driven Online Hackathon 1 Announcement | Deadline: Sunday, Dec 7th @ 11:59 PM*
 
+*All students must read the Google Form shared in your class timings below:*
+➡️ Open the link for your own class only.
+➡️ Read the form carefully - all details are written there.
+➡️ Follow the instructions exactly.
+
+After reading the form, join your class WhatsApp group.
+*⚠️ The official Hackathon announcement will be shared only in your class WhatsApp group.*
+
+*👉 Please note: The Hackathon is starting right now.*
+You must be ready with your Claude Code setup, Spec-Kit Plus setup, and specs BEFORE the Hackathon day.
+However, you will receive and update the title of the book to be generated on the evening of the Hackathon — *Wednesday, Dec 3rd at 8:00 PM* — on the WhatsApp group mentioned in respected form.
+
+1- GIAIC Friday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
+*https://forms.gle/VPzhForXoxxULkHm6 (Only Friday Evening Students)*
+
+2- GIAIC Saturday Afternoon Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
+*https://forms.gle/KeLKuvYJyPBifZSJ6 (Only Saturday Afternoon Students)*
+
+3- GIAIC Saturday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
+*https://forms.gle/fWQg9H4LcJC95E6c8 (Only Saturday Evening Students)*
+
+4- GIAIC Sunday Afternoon Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
+*https://forms.gle/RK6KPvVSeQ9eV4og8 (Only Sunday Afternoon Students)*
+
+5- GIAIC Sunday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
+*https://forms.gle/3WcS1FHNUE8qFsUZ8 (Only Sunday Evening Students)*
+
+6- GIAIC Monday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
+*https://forms.gle/6znsJFENt6rH1zuG6 (Only Monday Evening Students)*
+
+7- GIAIC Thursday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
+*https://forms.gle/rw7Lepqwbob1y6hf6 (Only Thursday Evening Students)*
+
+Regards,
+Ameen Alam
+```
 ## Project Requirements
 
 ### Core Tools & Requirements
