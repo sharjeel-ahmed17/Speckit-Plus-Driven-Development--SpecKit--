@@ -16,46 +16,83 @@ https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718
 
 2. **Hackathon II: Todo Spec-Driven Development**  
    [Document Link](https://docs.google.com/document/d/1KHxeDNnqG9uew-rEabQc5H8u3VmEN3OaJ_A1ZVVr9vY/edit?usp=sharing)
-## form submission links giaic all slot 
-```
-*📢 GIAIC AI / Spec-Driven Online Hackathon 1 Announcement | Deadline: Sunday, Dec 7th @ 11:59 PM*
+# 📢 GIAIC AI / Spec-Driven Online Hackathon 1
 
-*All students must read the Google Form shared in your class timings below:*
-➡️ Open the link for your own class only.
-➡️ Read the form carefully - all details are written there.
-➡️ Follow the instructions exactly.
+**🗓 Deadline:** Sunday, **Dec 7th @ 11:59 PM**
 
-After reading the form, join your class WhatsApp group.
-*⚠️ The official Hackathon announcement will be shared only in your class WhatsApp group.*
+---
 
-*👉 Please note: The Hackathon is starting right now.*
-You must be ready with your Claude Code setup, Spec-Kit Plus setup, and specs BEFORE the Hackathon day.
-However, you will receive and update the title of the book to be generated on the evening of the Hackathon — *Wednesday, Dec 3rd at 8:00 PM* — on the WhatsApp group mentioned in respected form.
+## 📌 Important Instructions (Must Read)
 
-1- GIAIC Friday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
-*https://forms.gle/VPzhForXoxxULkHm6 (Only Friday Evening Students)*
+All students **must carefully read** the Google Form shared for their **own class timing only**:
 
-2- GIAIC Saturday Afternoon Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
-*https://forms.gle/KeLKuvYJyPBifZSJ6 (Only Saturday Afternoon Students)*
+* ➡️ Open **only** the link relevant to your class
+* ➡️ Read the form **carefully** — all details are clearly mentioned
+* ➡️ **Follow the instructions exactly**
 
-3- GIAIC Saturday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
-*https://forms.gle/fWQg9H4LcJC95E6c8 (Only Saturday Evening Students)*
+After reading the form, **join your class WhatsApp group**.
 
-4- GIAIC Sunday Afternoon Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
-*https://forms.gle/RK6KPvVSeQ9eV4og8 (Only Sunday Afternoon Students)*
+> ⚠️ **Important:** The *official Hackathon announcement* will be shared **only** in your class WhatsApp group.
 
-5- GIAIC Sunday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
-*https://forms.gle/3WcS1FHNUE8qFsUZ8 (Only Sunday Evening Students)*
+---
 
-6- GIAIC Monday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
-*https://forms.gle/6znsJFENt6rH1zuG6 (Only Monday Evening Students)*
+## 🚀 Hackathon Start Notice
 
-7- GIAIC Thursday Evening Students — AI / Spec-Driven Online Hackathon Submission Deadline: Sunday, Dec 7th @ 11:59 PM
-*https://forms.gle/rw7Lepqwbob1y6hf6 (Only Thursday Evening Students)*
+👉 **Please note:** The Hackathon is **starting right now**.
 
-Regards,
-Ameen Alam
-```
+You must be fully prepared with the following **before the Hackathon day**:
+
+* ✅ Claude Code setup
+* ✅ Spec-Kit Plus setup
+* ✅ Initial specs ready
+
+📢 **Book Title Update:**
+The final title of the book to be generated will be shared and updated on:
+
+* **🕗 Wednesday, Dec 3rd at 8:00 PM**
+* Via the **WhatsApp group** mentioned in the respective form
+
+---
+
+## 📝 Class-wise Submission Forms
+
+> **Submission Deadline for all classes:**
+> **Sunday, Dec 7th @ 11:59 PM**
+
+### 1️⃣ GIAIC Friday Evening Students
+
+* 🔗 [Google Form – Friday Evening Students](https://forms.gle/VPzhForXoxxULkHm6)
+
+### 2️⃣ GIAIC Saturday Afternoon Students
+
+* 🔗 [Google Form – Saturday Afternoon Students](https://forms.gle/KeLKuvYJyPBifZSJ6)
+
+### 3️⃣ GIAIC Saturday Evening Students
+
+* 🔗 [Google Form – Saturday Evening Students](https://forms.gle/fWQg9H4LcJC95E6c8)
+
+### 4️⃣ GIAIC Sunday Afternoon Students
+
+* 🔗 [Google Form – Sunday Afternoon Students](https://forms.gle/RK6KPvVSeQ9eV4og8)
+
+### 5️⃣ GIAIC Sunday Evening Students
+
+* 🔗 [Google Form – Sunday Evening Students](https://forms.gle/3WcS1FHNUE8qFsUZ8)
+
+### 6️⃣ GIAIC Monday Evening Students
+
+* 🔗 [Google Form – Monday Evening Students](https://forms.gle/6znsJFENt6rH1zuG6)
+
+### 7️⃣ GIAIC Thursday Evening Students
+
+* 🔗 [Google Form – Thursday Evening Students](https://forms.gle/rw7Lepqwbob1y6hf6)
+
+---
+
+## 🙏 Regards
+
+**Ameen Alam**
+
 ## Project Requirements
 
 ### Core Tools & Requirements
