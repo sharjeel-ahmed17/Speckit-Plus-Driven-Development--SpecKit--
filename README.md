@@ -345,6 +345,13 @@ Repeat the following sequence for each new specification/feature:
 Follow along with the complete step-by-step tutorial:  
 https://ai-native.panaversity.org/docs/SDD-RI-Fundamentals/spec-kit-plus-hands-on
 
+## docusaurus project build guide
+``
+npm run build
+
+npx gh-pages "-d" "build"
+```
+
 ## github deployment guide
 
 ```
