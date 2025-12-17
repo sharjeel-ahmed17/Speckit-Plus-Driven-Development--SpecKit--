@@ -7,6 +7,9 @@ Official Book: [https://ai-native.panaversity.org/](https://ai-native.panaversit
 Gemini CLI Tutorial Series:  
 https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718
 
+Claude Code Tutorial Series:  
+https://code.claude.com/docs/en/overview
+
 ---
 
 ## Hackathon Links
