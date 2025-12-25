@@ -129,6 +129,7 @@ The final title of the book to be generated will be shared and updated on:
 - `gemini` (Google Gemini CLI - https://geminicli.com/)
 - `qwen` (Alibaba Qwen CLI - https://github.com/QwenLM/qwen-code)
 - `bonsai` (Bonsai CLI – https://docs.trybons.ai/bonsai-cli)
+- `goose` (goose CLI – https://block.github.io/goose/)
 
 ### CCR (Claude Code Runner) Free Setups
 
