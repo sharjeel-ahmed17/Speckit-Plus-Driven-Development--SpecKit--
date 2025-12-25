@@ -165,6 +165,11 @@ The final title of the book to be generated will be shared and updated on:
 - Agent Skills:  
   https://ai-native.panaversity.org/docs/AI-Tool-Landscape/claude-code-features-and-workflows/agent-skills
 
+
+  # Agents.md
+
+  https://agents.md/
+
 ### Claude Code Cheat Sheet
 
 https://github.com/DanielHashmi/Q4_learning/blob/main/spec-driven-development/tutorials/%F0%9F%9A%80%20The%20Ultimate%20Claude%20Code%20CheatSheet.md
