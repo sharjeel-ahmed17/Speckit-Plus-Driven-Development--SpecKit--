@@ -24,7 +24,7 @@ https://code.claude.com/docs/en/overview
    [Document Link](https://docs.google.com/document/d/1jVgK0NOc9TXE6HQ-mu4gs35CJIVmyPSCAOUIMNXuXmk/edit?tab=t.0)
    
 4. **Hackathon IV: Under development covering OpanAI Apps**  
-   [Document Link]([https://docs.google.com/document/d/1KHxeDNnqG9uew-rEabQc5H8u3VmEN3OaJ_A1ZVVr9vY/edit?usp=sharing](https://developers.openai.com/apps-sdk/))
+   [Document Link](https://developers.openai.com/apps-sdk/)
    
 # 📢 GIAIC AI / Spec-Driven Online Hackathon 1
 
