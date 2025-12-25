@@ -10,6 +10,10 @@ https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718
 Claude Code Tutorial Series:  
 https://code.claude.com/docs/en/overview
 
+
+# qwen cli problem face solution
+npx @qwen-code/qwen-code
+
 ---
 
 ## Hackathon Links
