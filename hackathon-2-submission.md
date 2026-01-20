@@ -1,0 +1,23 @@
+## Hackathon 2 – GIAIC Registration Forms
+
+- **Friday Evening Students**  
+  https://forms.gle/rzRQ9vfRMxeWgq9D7
+
+- **Saturday Afternoon Students**  
+  https://forms.gle/BrsyD6uGFPr9g2aK6
+
+- **Saturday Evening Students**  
+  https://forms.gle/d7XvqfmqaMUYALjj9
+
+- **Sunday Afternoon Students**  
+  https://forms.gle/xLgQb1hPs47JvXPy6
+
+- **Sunday Evening Students**  
+  https://forms.gle/CKFGCGF2wFo3qQjq5
+
+- **Monday Evening Students**  
+  https://forms.gle/XN2A2BsThj7CHA819
+
+- **Thursday Evening Students**  
+  https://forms.gle/SEcp3aPXnhHr9HPq5
+  
