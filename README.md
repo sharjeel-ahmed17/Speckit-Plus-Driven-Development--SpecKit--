@@ -21,6 +21,10 @@ npx @qwen-code/qwen-code
 
 ## Hackathon Links
 
+0. **Hackathon 0: Digital AI Employee**  
+   [Document Link](https://docs.google.com/document/d/1ofTMR1IE7jEMvXM-rdsGXy6unI4DLS_gc6dmZo8WPkI/edit?usp=sharing)
+
+
 1. **Hackathon I: Physical AI & Humanoid Robotics Textbook**  
    [Document Link](https://docs.google.com/document/d/1nw6D37JmTfhPLHo0IfTeCcKajX3Lw9PidDmBjMG1G5o/edit?tab=t.0)
 
@@ -32,6 +36,10 @@ npx @qwen-code/qwen-code
    
 4. **Hackathon IV: Under development covering OpanAI Apps**  
    [Document Link](https://developers.openai.com/apps-sdk/)
+   
+
+5. **Hackathon V: Digital FTE**  
+   [Document Link](https://docs.google.com/document/d/1Mm9FzdSETIksr_86FZPjg2KYHxSPk2evqcLVtZeG_g4/edit?usp=sharing)
    
 # 📢 GIAIC AI / Spec-Driven Online Hackathon 1
 
