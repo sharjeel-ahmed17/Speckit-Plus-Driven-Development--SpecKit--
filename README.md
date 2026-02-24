@@ -17,6 +17,9 @@ https://yt-blogs.subhankaladi.xyz/
 # qwen cli problem face solution
 npx @qwen-code/qwen-code
 
+
+# free claude code setup
+https://github.com/decolua/9router
 ---
 
 ## Hackathon Links
